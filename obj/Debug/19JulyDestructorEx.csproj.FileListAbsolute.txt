@@ -1,0 +1,8 @@
+D:\19JulyDestructorEx\19JulyDestructorEx\bin\Debug\19JulyDestructorEx.exe.config
+D:\19JulyDestructorEx\19JulyDestructorEx\bin\Debug\19JulyDestructorEx.exe
+D:\19JulyDestructorEx\19JulyDestructorEx\bin\Debug\19JulyDestructorEx.pdb
+D:\19JulyDestructorEx\19JulyDestructorEx\obj\Debug\19JulyDestructorEx.csproj.AssemblyReference.cache
+D:\19JulyDestructorEx\19JulyDestructorEx\obj\Debug\19JulyDestructorEx.csproj.SuggestedBindingRedirects.cache
+D:\19JulyDestructorEx\19JulyDestructorEx\obj\Debug\19JulyDestructorEx.csproj.CoreCompileInputs.cache
+D:\19JulyDestructorEx\19JulyDestructorEx\obj\Debug\19JulyDestructorEx.exe
+D:\19JulyDestructorEx\19JulyDestructorEx\obj\Debug\19JulyDestructorEx.pdb
