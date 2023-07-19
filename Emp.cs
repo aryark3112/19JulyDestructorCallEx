@@ -10,7 +10,7 @@ namespace _19JulyDestructorEx
             Console.WriteLine("Employee Constructor Call");
             Console.WriteLine("Stored Name: \t" + name);
         }
-        Emp()
+        ~Emp()
         {
             Console.WriteLine("Destructor Call & Name is: \t" +name);
         }

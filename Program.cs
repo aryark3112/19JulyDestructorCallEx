@@ -11,6 +11,9 @@ namespace _19JulyDestructorEx
         static void Main(string[] args)
         {
             Emp Obj = new Emp("Sam");
+            Obj = null;   //Destructor Call
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
             Console.ReadKey();
         }
     }
